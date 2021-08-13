@@ -1,0 +1,22 @@
+.ContainerChat{
+  display: flex;
+  flex-direction: column;
+}
+
+.ContainerTitle{
+   background-color: #fff;
+   height: 10vh;
+   width: 420px;
+   border-right: 1px solid #000;
+   border-bottom: 1px solid #000;
+}
+
+.containerMenssages{
+  background-color: #F8F9FA;
+  height: 90vh;
+  border-right: 1px solid #f8f9f923;
+  overflow-y: auto; 
+  scrollbar-color: #0c0e0e00 #fff;
+  scroll-margin: 1px;
+}
+

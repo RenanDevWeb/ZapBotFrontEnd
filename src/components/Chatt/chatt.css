@@ -1,0 +1,38 @@
+.chattBox{
+  background-color: lightblue;
+  padding: 20px;
+  height: 80vh;
+}
+
+.chattBox .messageSend{
+  display: flex;
+  flex-direction: column;
+  background-color: blue;
+  border-radius: 20px;
+  width: 400px;
+  padding: 20px;
+  color: #fff;
+}
+.chattBox .messageSend h4{
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 8px;
+
+}
+.chattBox .messageReceive{
+  display: flex;
+  flex-direction: column;
+  background-color: green;
+  border-radius: 20px;
+  width: 400px;
+  padding: 20px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.chattBox .messageReceive h4{
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 8px;
+
+}

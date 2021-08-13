@@ -1,0 +1,25 @@
+.iconsSet{
+  display: flex;
+  width: 62vw;
+  height: 10vh;
+  justify-content: space-between;
+}
+.iconsSet h4{
+  padding: 10px;
+  margin-right: 20px;
+  font-size: 26px;
+}
+
+.iconsSet nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.iconsSet nav ul li{
+  font-size: 22px;
+  padding: 20px;
+  color: #000;
+}
+.iconsSet nav ul li:hover{
+  color: #665DFE;
+}

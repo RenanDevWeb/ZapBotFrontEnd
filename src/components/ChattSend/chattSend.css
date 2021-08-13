@@ -1,0 +1,22 @@
+.sendMessage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sendMessage input[type='text']{
+  width: 80%;
+  margin-top: 20px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.sendMessage .arrow{
+  margin-top: 20px;
+  margin-left: 4px;
+  font-size: 26px;
+  color: #fff;
+  background-color: blue;
+  border-radius: 10px;
+}
