@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RenanDevWeb/ZapBotFrontEnd/static/css/main.7f549789.chunk.css",
-    "main.js": "/RenanDevWeb/ZapBotFrontEnd/static/js/main.17e68d60.chunk.js",
-    "main.js.map": "/RenanDevWeb/ZapBotFrontEnd/static/js/main.17e68d60.chunk.js.map",
-    "runtime-main.js": "/RenanDevWeb/ZapBotFrontEnd/static/js/runtime-main.c959ddfb.js",
-    "runtime-main.js.map": "/RenanDevWeb/ZapBotFrontEnd/static/js/runtime-main.c959ddfb.js.map",
-    "static/js/2.c5aa9ca8.chunk.js": "/RenanDevWeb/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js",
-    "static/js/2.c5aa9ca8.chunk.js.map": "/RenanDevWeb/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js.map",
-    "index.html": "/RenanDevWeb/ZapBotFrontEnd/index.html",
-    "static/css/main.7f549789.chunk.css.map": "/RenanDevWeb/ZapBotFrontEnd/static/css/main.7f549789.chunk.css.map",
-    "static/js/2.c5aa9ca8.chunk.js.LICENSE.txt": "/RenanDevWeb/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js.LICENSE.txt"
+    "main.css": "/ZapBotFrontEnd/static/css/main.7f549789.chunk.css",
+    "main.js": "/ZapBotFrontEnd/static/js/main.17e68d60.chunk.js",
+    "main.js.map": "/ZapBotFrontEnd/static/js/main.17e68d60.chunk.js.map",
+    "runtime-main.js": "/ZapBotFrontEnd/static/js/runtime-main.019e3ef0.js",
+    "runtime-main.js.map": "/ZapBotFrontEnd/static/js/runtime-main.019e3ef0.js.map",
+    "static/js/2.c5aa9ca8.chunk.js": "/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js",
+    "static/js/2.c5aa9ca8.chunk.js.map": "/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js.map",
+    "index.html": "/ZapBotFrontEnd/index.html",
+    "static/css/main.7f549789.chunk.css.map": "/ZapBotFrontEnd/static/css/main.7f549789.chunk.css.map",
+    "static/js/2.c5aa9ca8.chunk.js.LICENSE.txt": "/ZapBotFrontEnd/static/js/2.c5aa9ca8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c959ddfb.js",
+    "static/js/runtime-main.019e3ef0.js",
     "static/js/2.c5aa9ca8.chunk.js",
     "static/css/main.7f549789.chunk.css",
     "static/js/main.17e68d60.chunk.js"
