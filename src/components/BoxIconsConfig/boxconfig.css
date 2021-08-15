@@ -1,0 +1,14 @@
+.iconsSetCoonfig{
+    display: flex;
+    width: 22vw;
+    height: 10vh;
+    justify-content: space-between;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  .iconsSetCoonfig h4 {
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 26px;
+  }
+  

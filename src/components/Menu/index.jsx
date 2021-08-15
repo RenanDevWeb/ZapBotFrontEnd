@@ -14,7 +14,7 @@ function Menu() {
            <li><Link to="/" ><BsFillHouseDoorFill /></Link></li>
            <li><Link to="/chat"><BsChatSquareDots /></Link></li>
            <li><BsFillPersonFill /></li>
-           <li><BsGearFill /></li>
+           <li><Link to="/configuracoes"><BsGearFill /></Link></li>
          </ul>
        </nav>
 </div>

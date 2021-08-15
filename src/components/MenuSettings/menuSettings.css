@@ -1,0 +1,26 @@
+
+.boxMessageSettings {
+    border-right: 1px solid #000;
+    height: 90vh;
+   padding: 40px;
+}
+
+.boxtitleSettings .boxtitleSettings{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+
+}
+
+.boxtitleSettings  ul li{
+    background-color: #F8F9FA;
+    border: 2px solid  #E5E9F2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+ 
